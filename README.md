@@ -1,4 +1,4 @@
-# CancerCareBotA-Chatbot-for-Cancer
+# CancerCareBot_A-Chatbot-for-Cancer
 
 This CancerCareBot is made with the help of llama-2-7b-chat.ggmlv3.q4_0 model. 
 
